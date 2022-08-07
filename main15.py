@@ -1,4 +1,4 @@
-# elif , nested if(巢狀
+# elif # nested if(巢狀) #邏輯運算
 
 score = int(input("score:"))
 if score >= 90 or score == 100:
