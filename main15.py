@@ -1,7 +1,7 @@
 # elif # nested if(巢狀) #邏輯運算
 
 score = int(input("score:"))
-if score >= 90 or score == 100:
+if score >= 90:
     print("甲")
     if score == 100:
         print("最頂的")
